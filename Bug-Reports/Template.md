@@ -6,7 +6,7 @@
 
 **Description**:  
 **Steps to Reproduce**:  
-1. xxx
+1. xxx;
 **Expected Result**:  
 **Actual Result**:  
 **Attachments**: [screenshot.png]
