@@ -1,3 +1,6 @@
 # Test Plans
 
-This folder contains all my manual test plans artifacts.
+Explain the purpose of the artifacts
+What you learned while creating them
+Tools used
+Link to the actual files
