@@ -1,4 +1,6 @@
 # Test Cases
 
-This folder contains all my manual test case artifacts.
-
+Explain the purpose of the artifacts
+What you learned while creating them
+Tools used
+Link to the actual files
