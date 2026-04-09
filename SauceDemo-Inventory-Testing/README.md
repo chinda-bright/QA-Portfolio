@@ -15,10 +15,10 @@ Comprehensive manual testing of the SauceDemo Inventory page focusing on product
 | Document              | Format | Link |
 |-----------------------|--------|------|
 | Overview              | PDF    | [View](./Overview.pdf) |
-| Test Plan             | PDF    | [View](./Test-Plan.pdf) |
-| Test Cases            | PDF    | [View](./Test-Cases.pdf) |
-| Bug Reports           | PDF    | [View](./Bug-Reports.pdf) |
-| Defect Summary        | PDF    | [View](./Defect-Summary.pdf) |
+| Test-Plan             | PDF    | [View](./Test-Plan.pdf) |
+| Test-Cases            | PDF    | [View](./Test-Cases.pdf) |
+| Bug-Reports           | PDF    | [View](./Bug-Reports.pdf) |
+| Defect-Summary        | PDF    | [View](./Defect-Summary.pdf) |
 
 ### Screenshots
 *(Add your screenshots here later)*
