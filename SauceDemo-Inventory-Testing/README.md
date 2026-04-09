@@ -12,14 +12,14 @@ Comprehensive manual testing of the SauceDemo Inventory page focusing on product
 
 ### Project Documents
 
-| Document            | Link |
-|---------------------|------|
-| Overview            | [View](./Overview.md) |
-| Test Plan           | [View](./Test-Plan.md) |
-| Test Cases          | [Download](./Test-Cases.xlsx) |
-| Bug Reports         | [Download](./Bug-Reports.xlsx) |
-| Defect Summary      | [View](./Defect-Summary.md) |
-| Lessons Learned     | [View](./Lessons-Learned.md) |
+| Document              | Format | Link |
+|-----------------------|--------|------|
+| Overview              | PDF    | [View](./Overview.pdf) |
+| Test Plan             | PDF    | [View](./Test-Plan.pdf) |
+| Test Cases            | PDF    | [View](./Test-Cases.pdf) |
+| Bug Reports           | PDF    | [View](./Bug-Reports.pdf) |
+| Defect Summary        | PDF    | [View](./Defect-Summary.pdf) |
+| Lessons Learned       | PDF    | [View](./Lessons-Learned.pdf) |
 
 ### Screenshots
 *(Add your screenshots here later)*
