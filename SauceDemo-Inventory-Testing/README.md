@@ -22,6 +22,12 @@ Comprehensive manual testing of the SauceDemo Inventory page focusing on product
 
 ### Screenshots
 *(Add your screenshots here later)*
+
+|<img width="679" height="333" alt="image" src="https://github.com/user-attachments/assets/119a0f5b-c736-4ab1-9653-6aae52b89bd2" />
+                        |<img width="668" height="323" alt="image" src="https://github.com/user-attachments/assets/c391254c-d75c-4fc3-90b7-8f96c1bf867a" />
+                            |
+
+
 ---
 
 **Status**: Completed - April 2026
