@@ -19,7 +19,6 @@ Comprehensive manual testing of the SauceDemo Inventory page focusing on product
 | Test Cases            | PDF    | [View](./Test-Cases.pdf) |
 | Bug Reports           | PDF    | [View](./Bug-Reports.pdf) |
 | Defect Summary        | PDF    | [View](./Defect-Summary.pdf) |
-| Lessons Learned       | PDF    | [View](./Lessons-Learned.pdf) |
 
 ### Screenshots
 *(Add your screenshots here later)*
