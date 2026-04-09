@@ -10,18 +10,19 @@ Comprehensive manual testing of the SauceDemo Inventory page focusing on product
 - **Test Users**: standard_user, problem_user  
 - **Tools Used**: Manual Testing, Chrome DevTools
 
-### Documents
+### Project Documents
 
-- [Project Overview](./Overview.md)
-- [Test Plan](./Test-Plan.md)
-- [Test Cases](./Test-Cases.xlsx)
-- [Bug Reports](./Bug-Reports.xlsx)
-- [Defect Summary](./Defect-Summary.md)
-- [Lessons Learned](./Lessons-Learned.md)
+| Document            | Link |
+|---------------------|------|
+| Overview            | [View](./Overview.md) |
+| Test Plan           | [View](./Test-Plan.md) |
+| Test Cases          | [Download](./Test-Cases.xlsx) |
+| Bug Reports         | [Download](./Bug-Reports.xlsx) |
+| Defect Summary      | [View](./Defect-Summary.md) |
+| Lessons Learned     | [View](./Lessons-Learned.md) |
 
 ### Screenshots
-![Inventory Page](./Screenshots/inventory-page.png)
-
+*(Add your screenshots here later)*
 ---
 
 **Status**: Completed - April 2026
