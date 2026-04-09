@@ -1,7 +1,0 @@
-### Test Cases for Login Functionality
-
-| Test Case ID | Test Case Title                         | Priority | Steps to Execute                                                                           | Expected Result                     | Status  |
-|--------------|-----------------------------------------|----------|--------------------------------------------------------------------------------------------|-------------------------------------|---------|
-| TC-001       | Valid Login with Correct Credentials    | High     | 1. Open login page<br>2. Enter valid username<br>3. Enter valid password<br>4. Click Login | User is redirected to dashboard     | Pass    |
-| TC-002       | Invalid Login - Wrong Password          | High     | 1. Open login page<br>2. Enter valid username<br>3. Enter wrong password<br>4. Click Login | Error message "Invalid credentials" | Fail    |
-| TC-003       | Login with Empty Fields                 | Medium   | 1. Open login page<br>2. Click Login without entering anything                             | Error message for required fields   | Pass    |
