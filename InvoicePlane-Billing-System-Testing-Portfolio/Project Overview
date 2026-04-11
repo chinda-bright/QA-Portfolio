@@ -1,1 +1,43 @@
+Invoice Plane – Billing & Invoicing System Testing Portfolio
+Project Overview
+Application Under Test: Invoice Plane (open-source billing & invoicing system)
+Type: Self-hosted PHP/MySQL web application for complete billing lifecycle
+URL (Local): http://localhost/invoiceplane
+Technology Stack: XAMPP (Apache + PHP + MySQL + phpMyAdmin)
+Business Domain: Finance / Billing / Invoicing / Accounts Receivable
+Key Features Tested
 
+Client Management (CRUD, custom fields)
+Product / Item Management with tax rules
+Quote Management & conversion to invoices
+Invoice Creation, recurring invoices, status workflow (Draft → Sent → Paid → Overdue)
+Payment Tracking & reminders
+Reporting & Analytics (sales, tax, aging reports)
+System Settings (tax rates, currency, email, templates)
+PDF generation and email functionality
+Multi-currency & tax handling
+
+Project Objectives
+
+Build strong finance/billing domain knowledge for CV/portfolio.
+Demonstrate hands-on testing on full local XAMPP stack.
+Perform functional testing (UI + API with Postman).
+Execute performance/load testing with JMeter.
+Deliver professional QA documentation matching SauceDemo standard.
+
+Scope of Testing
+
+In Scope: Functional UI, API testing, Performance testing, basic security & accessibility.
+Out of Scope: Mobile deep testing, production deployment.
+
+Testing Tools Used
+
+Manual UI Testing: Chrome Browser
+API Testing: Postman
+Performance Testing: Apache JMeter
+Database Validation: phpMyAdmin
+Documentation: Markdown + GitHub
+
+Tested By: Chinda Bright – Senior Business Analyst transitioning to Quality Engineering
+Testing Period: April 2026
+Environment: Local XAMPP stack
