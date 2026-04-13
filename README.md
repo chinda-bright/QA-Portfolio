@@ -16,12 +16,17 @@ End-to-end manual testing of an e-commerce inventory page with focus on function
 - Effort: 4 days / 12 hours
 
 ### Skills & Tools
-- Requirements Analysis & User Story Writing (6+ years)
-- Manual Testing, Exploratory & Negative Testing
-- Bug Reporting & Defect Lifecycle
-- Chrome DevTools
-- Test Case Design & Traceability
-- Jira (learning) | Transitioning into Automation (Selenium / Playwright)
+- Manual Testing
+- -  Exploratory
+  -  Smoke Test
+ 
+- Automated Testing
+-   Postman (API Test - Functional & Performance Test)
+-   Katalon Studio (web, mobile, API test)
+-   JMeter (Performance & Load Test)
+
+- JIRA (Agile Development)
+- Chrome Dev Tools (Troubleshooting)
 
 ---
 
